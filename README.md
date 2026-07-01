@@ -16,12 +16,15 @@ Passionné par le développement, je travaille sur des projets techniques et des
 **Langages & Tech**
 - COBOL  
 - VBA  
-- C  
+- C
+- Java
 - Python  
 - HTML / CSS  
 - JavaScript  
 - PHP  
-- PL/SQL  
+- PL/SQL
+- React
+- NodeJs
 
 **Autres**
 - Tests  
