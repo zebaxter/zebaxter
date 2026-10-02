@@ -11,6 +11,9 @@ Passionné par le développement, je travaille sur des projets techniques et des
 
 ---
 
+## 🚀 Projet en ligne
+Site de statistiques pour les coach de basketball : [smartbasketcoach.fr](https://www.smartbasketcoach.fr/)
+
 ## 🛠️ Compétences
 
 **Langages & Tech**
