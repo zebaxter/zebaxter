@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Martin Mixte
 
-💼 Alternant chez **IBM**  
-🎓 Étudiant en dernière année de Bachelor Informatique (**ESGI**)  
+💼 Alternant chez **Inetum**  
+🎓 Étudiant en master 1 Informatique (**ESGI**)  
 
 ---
 
